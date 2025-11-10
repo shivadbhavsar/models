@@ -57,7 +57,7 @@ All device handling and tensor allocations (input_ids, mask, past_key_values, et
 ## Notes
 
 - **Requirements:**  
-  - [MIGraphX](https://github.com/ROCm/migraphx) Python package.
+  - [MIGraphX](https://github.com/ROCm/migraphx).
   - [Huggingface Hub](https://pypi.org/project/huggingface-hub/) for downloading ONNX models.
   - PyTorch (for example usages and as a comparison).
 
